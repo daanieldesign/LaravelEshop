@@ -1,5 +1,5 @@
 <footer class="footer bg-white text-center py-4">
-    <p>&copy; {{ date('Y') }} My Shop. All rights reserved.</p>
+    <p>&copy; {{ date('Y') }} Shoey. Všechna práva vyhrazena.</p>
   </footer>
 <style>
 .footer {
