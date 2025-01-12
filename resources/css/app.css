@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Zvýraznění produktů */
+.bg-yellow-100 {
+    background-color: #fef9c3;
+}
+
+.border-gold {
+    border: 5px solid gold;
+}
+
+/* Upozornění na nízký sklad */
+.low-stock {
+    color: red;
+    font-weight: bold;
+}
